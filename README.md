@@ -1,14 +1,15 @@
-# Deep Learning Model to predict `Toxicity`
+# Deep Learning Model to predict `Article Category`
 
 ## Data 
-The chosen dataset is: <a href="https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data">Jigsaw Toxic Comment Classification Challenge (Kaggle)</a>. 
+The chosen dataset is: <a href="https://www.kaggle.com/datasets/yufengdev/bbc-fulltext-and-category">BBC Articles Dataset</a>. 
 
 ## Folder Structure 
 - data
-    - test.csv
-    - test_labels.csv
+    - data.csv
     - train.csv
+    - test.csv
 - model.py
 - README.md
 - util.py
+- clean.py
 
